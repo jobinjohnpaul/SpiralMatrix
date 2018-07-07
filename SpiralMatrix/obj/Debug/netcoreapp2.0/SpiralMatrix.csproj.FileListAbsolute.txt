@@ -1,0 +1,9 @@
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp2.0\SpiralMatrix.deps.json
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp2.0\SpiralMatrix.dll
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp2.0\SpiralMatrix.pdb
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp2.0\SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp2.0\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp2.0\SpiralMatrix.AssemblyInfoInputs.cache
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp2.0\SpiralMatrix.AssemblyInfo.cs
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp2.0\SpiralMatrix.dll
+C:\Apps\From USB\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp2.0\SpiralMatrix.pdb
